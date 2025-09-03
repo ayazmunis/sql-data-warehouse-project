@@ -2,7 +2,9 @@
 
 Welcome to my **Data Warehouse & Analytics Project** — where raw data goes in confused, comes out polished, and (hopefully) tells you something useful.  
 
-This project is my attempt at building a **modern data warehouse** using the Medallion Architecture (**Bronze → Silver → Gold**) and sprinkling in a bit of analytics magic ✨. Think of it as taking CSVs on a spa day — cleanse, transform, and shine.  
+This project is my attempt at building a **modern data warehouse** using the Medallion Architecture (**Bronze → Silver → Gold**) and sprinkling in a bit of analytics magic ✨. Think of it as taking CSVs on a spa day — cleanse, transform, and shine.
+
+
 ![Data Architecture](docs/data_architecture.png)
 
 ---
