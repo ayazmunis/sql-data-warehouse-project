@@ -97,13 +97,13 @@ The SQL reports answer fun business questions like:
 
 ## 🛡️ License  
 
-MIT License – feel free to use, modify, and share. Just don’t forget to give credit (karma points included).  
+MIT License – feel free to use, modify, and share.
 
 ---
 
 ## 🌟 About Me  
 
-I’m **Ayaz Munis** – data enthusiast, recovering from CSV trauma, and passionate about making sense of data.  
+I’m **Ayaz Munis** – a data enthusiast dedicated to building modern data solutions and uncovering insights that drive smarter decisions.  
 
 Connect with me on:  
-[LinkedIn](#) • [YouTube](#) • [Website](#)  
+[LinkedIn](https://www.linkedin.com/in/ayazmunis/) • 
