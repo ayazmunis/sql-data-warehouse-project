@@ -84,15 +84,6 @@ The SQL reports answer fun business questions like:
 
 ---
 
-## 🚀 How to Use  
-
-1. Clone the repo  
-2. Run the SQL scripts (Bronze → Silver → Gold)  
-3. Query the Gold layer like a boss  
-4. Brag about your shiny dashboards on LinkedIn 😎  
-
----
-
 ## 🛡️ License  
 
 MIT License – feel free to use, modify, and share.
