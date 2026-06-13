@@ -1,25 +1,25 @@
-# 🚀 Data Warehouse & Analytics Project  
+# Data Warehouse & Analytics Project  
 
 Welcome to my **Data Warehouse & Analytics Project** — where raw data goes in confused, comes out polished, and (hopefully) tells you something useful.  
 
-This project is my attempt at building a **modern data warehouse** using the Medallion Architecture (**Bronze → Silver → Gold**) and sprinkling in a bit of analytics magic ✨. Think of it as taking CSVs on a spa day — cleanse, transform, and shine.
+This project is my attempt at building a **modern data warehouse** using the Medallion Architecture (**Bronze → Silver → Gold**) and sprinkling in a bit of analytics magic. Think of it as taking CSVs on a spa day — cleanse, transform, and shine.
 
 
 ![Data Architecture](docs/data_architecture.png)
 
 ---
 
-## 🏗️ Data Architecture  
+##  Data Architecture  
 
 We follow the **Medallion Architecture** (fancy name, simple idea):  
 
-- **🥉 Bronze Layer** – Raw data dumped straight from ERP & CRM CSV files into SQL Server. No judgments, just as-is.  
-- **🥈 Silver Layer** – Data goes through a shower, a haircut, and maybe a pep talk (cleansing, normalization, standardization).  
-- **🥇 Gold Layer** – Star schema models ready for analytics. This is where the real insights happen.  
+- **Bronze Layer** – Raw data dumped straight from ERP & CRM CSV files into SQL Server. No judgments, just as-is.  
+- **Silver Layer** – Data goes through a shower, a haircut, and maybe a pep talk (cleansing, normalization, standardization).  
+- **Gold Layer** – Star schema models ready for analytics. This is where the real insights happen.  
 
 ---
 
-## 📖 Project Overview  
+## Project Overview  
 
 What I did:  
 - **Data Architecture** – Designed a warehouse using the Bronze/Silver/Gold approach.  
@@ -31,7 +31,7 @@ Basically, I turned CSV chaos into something business-ready.
 
 ---
 
-## 🎯 Skills Highlighted  
+## Skills Highlighted  
 
 This repo is perfect for showcasing skills in:  
 - SQL Development  
@@ -42,7 +42,7 @@ This repo is perfect for showcasing skills in:
 
 ---
 
-## 🛠️ Tools & Tech  
+## Tools & Tech  
 
 - **SQL Server Express** – Database engine of choice  
 - **SSMS** – Because clicking buttons sometimes feels easier than typing queries  
@@ -51,7 +51,7 @@ This repo is perfect for showcasing skills in:
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 
 ```data-warehouse-project/
 │
@@ -75,7 +75,7 @@ This repo is perfect for showcasing skills in:
 
 ---
 
-## 📊 Analytics & Insights  
+## Analytics & Insights  
 
 The SQL reports answer fun business questions like:  
 - Who are our best customers (and who ghosted us)?  
@@ -84,13 +84,13 @@ The SQL reports answer fun business questions like:
 
 ---
 
-## 🛡️ License  
+## License  
 
 MIT License – feel free to use, modify, and share.
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
 I’m **Ayaz Munis** – a data enthusiast dedicated to building modern data solutions and uncovering insights that drive smarter decisions.  
 
